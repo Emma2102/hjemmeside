@@ -99,12 +99,12 @@ video {
   .titel {
     font-size: 30px;
   }
-  .vedsidenaf {
+  .vedsidenafden {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
 
-  .vedsidenaf div {
+  .vedsidenafden div {
     padding: 5px;
     margin: 50px;
   }
